@@ -11,7 +11,7 @@ class About extends Component{
                   <aside className="container">
                     <div className="col-sm aboutUs">
                         <h2 className="mcell-title story">Abous Us</h2>
-                        <div className="padding20">@mrecoder</div>
+                        <div className="padding20">@Dheepan</div>
                     </div>
                   </aside>
             </div>
